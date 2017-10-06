@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-06/schema#","title":"Product","description":"A product from Acme's catalog","type":"object","properties":{"id":{"description":"The unique identifier for a product","type":"integer"},"name":{"description":"The Id","type":"string"},"address":{"description":"The address","type":"string"}},"required":["id"]}
